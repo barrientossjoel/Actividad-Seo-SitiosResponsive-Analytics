@@ -1,0 +1,30 @@
+
+[
+    {
+        "nombre": "Joel Barrientos",
+        "dirección": "Calle falsa 123",
+        "teléfono": "1122334455",
+        "mascotas":[
+            {
+            "nombre": "Benji", 
+            "especie": "Perro",
+            "raza": "Labrador",
+            "edad": 5, 
+            "sexo": "Macho",
+            "historial clínico": [
+                {
+                "fecha": "2023-09-01",
+                "veterinario": "Dr. Peterson",
+                "motivo_consulta": "Vacunación anual",
+                "tratamiento": "Vacuna antirrábica",
+                "observaciones": "Todo en orden"
+                }
+               ]
+                
+            }
+        ]
+            
+            
+        
+    }
+]

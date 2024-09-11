@@ -1,0 +1,14 @@
+{
+    "nombre": "Dr. Peterson",
+    "especialidad": "Medicina interna",
+    "telefono": "1120304050",
+    "consultas_realizadas": [
+      {
+        "cliente": "Juan Pérez",
+        "mascota": "Firulais",
+        "fecha": "2023-09-01",
+        "motivo_consulta": "Vacunación anual",
+        "tratamiento": "Vacuna antirrábica"
+      }
+    ]
+  }
